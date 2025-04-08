@@ -1,4 +1,4 @@
 # Demo
 first repo
 <br>
-Farhan Khan Pathan
+Author:Farhan Khan Pathan
